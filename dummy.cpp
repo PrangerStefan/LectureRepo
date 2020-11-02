@@ -1,11 +1,9 @@
 #include <iostream>
 
-void printAppName() {
-
+void printAppName(){
   std::cout << "Dummy App";
 }
 
-int main() {
-
+int main(){
   return 0;
 }
