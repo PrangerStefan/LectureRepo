@@ -1,7 +1,7 @@
 #include <iostream>
 
 void newFeature() {
-  std::cout << "new feature";
+  std::cout << "New Feature";
 }
 
 /* Documentation here
@@ -12,6 +12,6 @@ void printAppName() {
 
 /* Documentation here
    */
-int main() {
-  return 2;
+int main(){
+  return -1;
 }
