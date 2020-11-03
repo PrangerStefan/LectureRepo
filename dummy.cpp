@@ -2,12 +2,12 @@
 
 /* Documentation here
    */
-void printAppName(){
+void printAppName() {
   std::cout << "Dummy App";
 }
 
 /* Documentation here
    */
-int main(){
+int main() {
   return 1;
 }
