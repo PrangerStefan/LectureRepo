@@ -1,7 +1,7 @@
 #include <iostream>
 
 void newFeature() {
-  std::cout << "new feature";
+  std::cout << "New Feature";
 }
 
 /* Documentation here
