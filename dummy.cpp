@@ -13,5 +13,6 @@ void printAppName() {
 /* Documentation here
    */
 int main(){
+  newFeature();
   return -1;
 }
